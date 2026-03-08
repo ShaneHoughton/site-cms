@@ -1,6 +1,6 @@
-# Technology
+# Squidward?
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud.
+Ooga booga squidward!
 
 ## Modern Advances
 
