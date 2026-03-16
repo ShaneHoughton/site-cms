@@ -23,6 +23,7 @@ who did it?
 
 ~~strikethrough~~
 
-[ ] task list
-[x] checked item
+- [ ] task list
+- [x] checked item
+
 https://example.com
