@@ -1,5 +1,5 @@
 # How I made this site
-I wanted to avoid having to update my actual site every time I wanted to change an image, word, or even have the ability to post articles.
+I wanted to avoid having to update my actual site every time I wanted to change an image, word, or even have the ability to post articles. And use some vcs like git...
 I did not want to pay for or set up a cms like wordpress so I figured I could use github!
 ## APIS
 You can simply use the urls to endpoints like this to get the manifest of your repo and the actual file contents.
