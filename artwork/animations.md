@@ -11,7 +11,7 @@ I grew up cartoon obsessed and always wanted to make my own. So here are a few.
 
 - HEADPHONE WARNING--sorry!
 
-- The theme, was "multi-media" so I made this with Adobe after-effects, Photoshop, and Procreate.
+- The theme for this project was "multi-media" so I made this with Adobe After-Effects, Photoshop, and Procreate.
 
 ## Birthday Bab
 <a href="https://youtu.be/hB5A7hiU6NI?si=lblSCb7gAcANZ2Zb">
