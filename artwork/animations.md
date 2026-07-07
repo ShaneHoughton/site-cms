@@ -15,6 +15,7 @@ Go ahead and watch it [here](https://youtu.be/-gTV87yEjkc?si=TiRzptUeawR13Qbx).
 <a href="https://youtu.be/-gTV87yEjkc?si=TiRzptUeawR13Qbx">
 <img src="../images/artwork/animations/art.jpg" width="500px">
 </a>
+
 This was a birthday gift for my girlfriend, Abbie. She is a real-life cartoon character, so it felt fitting for her
 to have her own show.
 You can see it [here](https://youtu.be/-gTV87yEjkc?si=TiRzptUeawR13Qbx).
